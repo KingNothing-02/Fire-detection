@@ -17,6 +17,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KingNothing-02"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KingNothing-02/Fire-detection.git",
+    "accountId": "79ea1650-07a2-48e5-b7c8-ddde4189dfc5"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -41,6 +56,7 @@
     "Python.线性回归从零.executor": "Run",
     "Python.线性回归简洁.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "F:/PyCharm Community Edition 2024.2/deeplearning1",
     "settings.editor.selected.configurable": "vcs.Git"
   }
